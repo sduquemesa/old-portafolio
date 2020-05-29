@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.482c9a84.chunk.css",
-    "main.js": "/portafolio/static/js/main.933111e3.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.933111e3.chunk.js.map",
+    "main.js": "/portafolio/static/js/main.e2364969.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.e2364969.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.10695737.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.10695737.js.map",
     "static/css/2.d1a1cf73.chunk.css": "/portafolio/static/css/2.d1a1cf73.chunk.css",
     "static/js/2.f3ba6f00.chunk.js": "/portafolio/static/js/2.f3ba6f00.chunk.js",
     "static/js/2.f3ba6f00.chunk.js.map": "/portafolio/static/js/2.f3ba6f00.chunk.js.map",
     "index.html": "/portafolio/index.html",
-    "precache-manifest.d694fcc59cc6e3fe77ed973680679a5f.js": "/portafolio/precache-manifest.d694fcc59cc6e3fe77ed973680679a5f.js",
+    "precache-manifest.e34ccc2637e7bcf66f3e3f77e653710b.js": "/portafolio/precache-manifest.e34ccc2637e7bcf66f3e3f77e653710b.js",
     "service-worker.js": "/portafolio/service-worker.js",
     "static/css/2.d1a1cf73.chunk.css.map": "/portafolio/static/css/2.d1a1cf73.chunk.css.map",
     "static/css/main.482c9a84.chunk.css.map": "/portafolio/static/css/main.482c9a84.chunk.css.map",
@@ -20,7 +20,7 @@
     "static/media/espectrograma.png": "/portafolio/static/media/espectrograma.0137b349.png",
     "static/media/luz.png": "/portafolio/static/media/luz.75fee152.png",
     "static/media/maqroll.png": "/portafolio/static/media/maqroll.09003c51.png",
-    "static/media/modulaciones.png": "/portafolio/static/media/modulaciones.ad70b457.png",
+    "static/media/modulaciones.png": "/portafolio/static/media/modulaciones.49f71996.png",
     "static/media/paisaje_casa.png": "/portafolio/static/media/paisaje_casa.d61c88f5.png",
     "static/media/pandemiaparanoia.png": "/portafolio/static/media/pandemiaparanoia.fc293450.png",
     "static/media/pinturasonido.png": "/portafolio/static/media/pinturasonido.680a55d2.png",
@@ -32,6 +32,6 @@
     "static/css/2.d1a1cf73.chunk.css",
     "static/js/2.f3ba6f00.chunk.js",
     "static/css/main.482c9a84.chunk.css",
-    "static/js/main.933111e3.chunk.js"
+    "static/js/main.e2364969.chunk.js"
   ]
 }
