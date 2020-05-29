@@ -1,6 +1,26 @@
-import { Maqroll, AguaExploratorio, CellularAutomata, Contaminacion, Espectrograma, PaisajeCasa, PandemiaParanoia, PinturaSonido, Sono, Cavidad } from '../pictures'
+import { 
+    Modulaciones, 
+    Maqroll, 
+    AguaExploratorio, 
+    CellularAutomata, 
+    Contaminacion, 
+    Espectrograma, 
+    PaisajeCasa, 
+    PandemiaParanoia, 
+    PinturaSonido, 
+    Sono, 
+    Cavidad } from '../pictures'
+
 
 export const artwork = {
+
+    modulaciones: {
+        title: 'Modulaciones del Discurso (en progreso)',
+        text: 'Propuesta que explora a través de IA cómo nuestro contexto define el significado y la representación de la palabra.',
+        keywords: 'Inteligencia Artificial | Programación | Análisis de texto',
+        image: Modulaciones,
+        link: 'https://drive.google.com/file/d/1AgYoqF426c7Y4ME69PDc1N5imIRBFuIU/view',
+    },
 
     maqroll: {
         title: 'Topografía de un Texto',

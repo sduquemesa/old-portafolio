@@ -5,6 +5,7 @@ import {artwork} from '../../assets/artwork'
 const Gallery = () => {
 
     const elements = [
+        artwork.modulaciones,
         artwork.maqroll,
         artwork.sono, 
         artwork.espectrograma, 

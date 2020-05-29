@@ -8,6 +8,19 @@ import PaisajeCasa from './paisaje_casa.png';
 import PandemiaParanoia from './pandemiaparanoia.png';
 import PinturaSonido from './pinturasonido.png';
 import Sono from './sono.png';
+import Modulaciones from './modulaciones.png';
 
 
-export { Maqroll, AguaExploratorio, CellularAutomata, Contaminacion, Espectrograma, Cavidad, PaisajeCasa, PandemiaParanoia, PinturaSonido, Sono  };
+export { 
+    Maqroll, 
+    AguaExploratorio, 
+    CellularAutomata, 
+    Contaminacion, 
+    Espectrograma, 
+    Cavidad, 
+    PaisajeCasa, 
+    PandemiaParanoia, 
+    PinturaSonido, 
+    Sono, 
+    Modulaciones  
+};
