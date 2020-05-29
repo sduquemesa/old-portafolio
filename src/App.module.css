@@ -1,0 +1,39 @@
+.mainContainer {
+    display: grid;
+    grid-template-areas:
+        "blankl  header  blankr"
+        "blankl content blankr";
+    grid-template-columns: auto minmax(auto, 1400px) auto;
+    grid-template-rows: auto auto ;
+}
+
+@media only screen and (max-width: 375px) {
+    .main-container {
+    grid-template-columns: auto minmax(auto, 375px) auto;
+    }
+}
+
+.header {
+    grid-area: header;
+}
+    
+.blankl {
+    grid-area: blank-l;
+}
+
+.blankr {
+    grid-area: blank-r; 
+}
+
+.content {
+    grid-area: content;
+    margin: 1rem auto; 
+    align-items: center;
+    justify-self: center;
+    padding-top: 2%;
+}
+
+.footer {
+    grid-area: footer;
+    /*background-color: #F88;*/
+}

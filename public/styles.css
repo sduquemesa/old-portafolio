@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins|Open+Sans")
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #FEFEFE;
+    font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none !important;
+}
